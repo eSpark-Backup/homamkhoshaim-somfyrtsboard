@@ -1,4 +1,4 @@
-# homamkhoshaim-somfyrtsboard
+# Homam Khoshaim - Somfy RTS Board
 
 
 ## Description
